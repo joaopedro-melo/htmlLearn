@@ -1,0 +1,11 @@
+body {
+    font-family: 'Georgia';
+    text-align: center;
+    background-color: white;
+  color:aqua;
+}
+
+a {
+    color: aqua;
+  font-size: 60px;
+}

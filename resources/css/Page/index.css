@@ -1,0 +1,25 @@
+
+ body 
+ {
+  font-family: 'Georgia';
+  text-align: center;
+  font-size: 26px;
+  
+}
+
+h1 
+{
+   font-family: 'Georgia';
+   text-align: center;
+  }
+
+  p 
+  {
+    font-family: 'Georgia';
+    text-align: center;
+  }
+
+ a{
+     font-size: 40px;
+     color:black;
+ }
